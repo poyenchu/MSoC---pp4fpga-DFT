@@ -44,7 +44,7 @@ Using high level synthesis to accelerate 1024-DFT and implementation on Zedboard
 (4) Set directives from directive.tcl <br>
 (5) C-Sim, synthesis and Co-sim could work <br>
 
-2. Implementation on board <br>
+2. System on board <br>
 (1) fpga board setup <br>
     We use **Xilinx ZedBoard Evaluation and Development Kit** to evaulate this project <br>
 (2) put DFT.bit and DFT.hwh on Zedboard <br>
